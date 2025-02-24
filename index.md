@@ -16,7 +16,7 @@ I am a 2nd student from **PUMC**.You can find more information about me on my [G
 
 Here are my bioinfo notes:
 
-- **Note 1**: [Link to project](https://github.com/Qiuzhenn/project1)
+- **Note 1**: [Link to project](https://github.com/Qiuzhenn/Note 1)
 
 
 ## My Bioinfo Study Plan
