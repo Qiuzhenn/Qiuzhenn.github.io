@@ -1,4 +1,5 @@
-# **Intrpduction of Bioinfo**
+# **Introduction of Bioinfo**
+     
 ## 1) some good habits
 - document my work
 > github & markdown
