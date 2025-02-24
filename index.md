@@ -15,10 +15,7 @@ I am a 2nd student from **PUMC**.You can find more information about me on my [G
 ### My Notes
 
 Here are my bioinfo notes:
-
-- **Note 1**: ([查看我的文件](https://github.com/Qiuzhenn/Qiuzhenn.github.io/main/Note1.md)
-)
-
+- **Note 1**: ([查看我的文件](https://github.com/Qiuzhenn/Qiuzhenn.github.io/blob/main/Note1.md))
 
 
 ## My Bioinfo Study Plan
