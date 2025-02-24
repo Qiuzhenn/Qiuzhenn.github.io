@@ -10,7 +10,7 @@ Welcome to my personal website! This site is built using **Markdown** and hosted
 
 ## About Me
 
-I am a 2nd student from **PUMC**.You can find more information about me on my [GitHub profile](https://github.com/Qiuzhenn).
+I'm Zhu Yutong,2nd student from **PUMC**.You can find more information about me on my [GitHub profile](https://github.com/Qiuzhenn).
 
 ### My Notes
 
