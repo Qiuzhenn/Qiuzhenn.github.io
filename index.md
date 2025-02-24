@@ -1,42 +1,36 @@
 ---
 layout: default
-title: My Awesome Website
+title: Zyt's Bioinfo Website
 description: This is a sample website created using Markdown and GitHub Pages.
 ---
 
 # Welcome to My Website
 
-Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**. You can edit this file to update your content.
+Welcome to my personal website! This site is built using **Markdown** and hosted on **GitHub Pages**. 
 
 ## About Me
 
-I am a software developer who loves open-source projects and building cool websites. You can find more information about me on my [GitHub profile](https://github.com/yourusername).
+I am a 2nd student from **PUMC**.You can find more information about me on my [GitHub profile](https://github.com/Qiuzhenn).
 
-### My Projects
+### My Notes
 
-Here are some of the projects I've worked on:
+Here are my bioinfo notes:
 
-- **Project 1**: [Link to project](https://github.com/yourusername/project1)
-- **Project 2**: [Link to project](https://github.com/yourusername/project2)
+- **Note 1**: [Link to project](https://github.com/Qiuzhenn/project1)
 
-## Skills
 
-I specialize in the following technologies:
+## My Bioinfo Study Plan
 
-- **Programming Languages**: Python, JavaScript, C++
-- **Web Technologies**: HTML, CSS, JavaScript, Jekyll, GitHub Pages
+- Study basic linux skills   
+- make good command of R and python  
+- use these skills to solve some biological tasks
+- learn as a team
+- **listen carefully,do homework actively and learn more by after-class reading**
 
-## My Blog
-
-I occasionally write blog posts on topics like programming, technology, and open-source software. Check out my latest post:
-
-- [How to use GitHub Pages for static websites](https://yourusername.github.io/your-post)
-
-![Example Image](https://via.placeholder.com/600x300)
 
 ## Contact
 
-Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me via email at [zhu-yt23@mails.tsinghua.edu.cn](mailto:zhu-yt23@mails.tsinghua.edu.cn).
 
 ---
 
